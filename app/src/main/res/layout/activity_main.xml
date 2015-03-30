@@ -17,7 +17,7 @@
         android:layout_gravity="fill_horizontal"
         android:hint="@string/queryPrompt"
         android:imeOptions="actionNext" >
-         
+
         <requestFocus/>
     </EditText>
 
@@ -68,7 +68,7 @@
             android:layout_marginBottom="@dimen/tagged_searches_padding"
             android:layout_marginTop="@dimen/tagged_searches_padding"
             android:layout_weight="1" />
-        
+
     </LinearLayout>
 
 </GridLayout>
